@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Stock Recommendation System
 
@@ -35,3 +36,6 @@ The generated recommendation labels are for educational use only.
 
 ## Disclaimer
 This project is for educational purposes and does not provide financial advice.
+=======
+# STOCKULTRON45
+>>>>>>> f3477c049a3f1b8d382f78e50409215a5505fc6c
